@@ -1,0 +1,19 @@
+
+.class-example   {
+    background-color: rgb(255, 168, 168);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cool-class  {
+    font-size: 24px;
+}
+
+#id-example-blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#id-example-green   {
+    background-color: rgb(115, 246, 115);
+    font-size: 24px;
+    font-weight: bold;
+}
